@@ -1,0 +1,44 @@
+html {
+
+  height: 100%;
+
+  width: 100%;
+
+}
+
+
+
+body {
+
+  background: url("https://78.media.tumblr.com/9a34b259238a9910ea408fd4953ef872/tumblr_p1nhpa1QI51wlqrsco1_1280.jpg");
+
+  background-size: cover;
+
+  background-repeat: no-repeat;
+
+  background-attachment: fixed;
+
+}
+
+.navbar-brand {
+  font-family: 'Kaushan Script', cursive;
+}
+
+.mt-5 {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+}
+
+.p1 {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-family: 'Kaushan Script', cursive;
+}
+
+.jumbotron {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
